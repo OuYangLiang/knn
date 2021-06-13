@@ -1,4 +1,1 @@
-文档：
-
-
-[k-近邻算法]({{site.baseurl}}/2021/06/k-近邻算法.html)。
+[k-近邻算法](https://ouyangliang.github.io/2021/06/k-近邻算法)。
